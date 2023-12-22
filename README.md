@@ -26,3 +26,6 @@
 ### CIFAR10/CIFAR100/TinyImageNet/ImageNet100
 
 - These folders store the corresponding training log.
+
+## Trained Models
+[TDAT with ResNet-18 on CIFAR-10 dataset]([https://www.csdn.net](https://drive.google.com/file/d/1fPYwjz2V9wibfdWlopip0tfK4IB0KS9o/view?usp=drive_link)https://drive.google.com/file/d/1fPYwjz2V9wibfdWlopip0tfK4IB0KS9o/view?usp=drive_link)
