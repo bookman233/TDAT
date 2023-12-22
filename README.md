@@ -1,5 +1,7 @@
 # Taxonomy Driven Fast Adversarial Training
 
+Code for "Taxonomy Driven Fast Adversarial Training" (AAAI 2024)
+
 ## Environments
 
 - python 3.7.13
